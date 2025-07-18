@@ -93,8 +93,8 @@ Object-Oriented Programming (OOP) &nbsp;|&nbsp; MVC Architecture &nbsp;|&nbsp; A
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasnat15&show_icons=true&theme=default&hide_border=false&count_private=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasnat15&theme=default&hide_border=false" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadHasnatUmar&show_icons=true&theme=default&hide_border=false&count_private=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadHasnatUmar&theme=default&hide_border=false" width="47%" />
 </p>
 
 ---
