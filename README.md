@@ -102,7 +102,7 @@ Object-Oriented Programming (OOP) &nbsp;|&nbsp; MVC Architecture &nbsp;|&nbsp; A
 ## 📫 Contact Me
 
 - **Email:** [mhasnat749@gmail.com](mailto:mhasnat749@gmail.com)  
-- **GitHub:** [github.com/hasnat15](https://github.com/hasnat15)  
+- **GitHub:** [github.com/MuhammadHasnatUmar](https://github.com/MuhammadHasnatUmar)  
 - **Credly Profile:** [View Certifications](https://www.credly.com/users/muhammad-hasnat.9dbad2c4)
 
 ---
